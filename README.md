@@ -56,10 +56,10 @@ I'm an avid software developer with a particular passion for building robust **B
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanbattula7893&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-### 📈 My LeetCode Activity
+### 📈 My LeetCode Activity Heatmap
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kalyannn?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Kalyannn?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Heatmap" />
 </p>
 
 ---
