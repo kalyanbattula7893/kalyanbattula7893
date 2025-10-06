@@ -2,9 +2,9 @@
 
 👀 Welcome to my GitHub!  
 I'm an avid software developer with a particular passion for building robust **Backend software**, **REST APIs**, **microservices**, and more.  
-🌱 Currently exploring **deep learning** — my mind feels like it’s doing mental acrobatics!  
+🌱 Currently exploring **Generative AI** and **Vector Databases** — my mind feels like it's doing mental acrobatics!  
 💪 Proficient in building **scalable applications**.  
-🎯 When I’m not coding, you’ll probably find me **watching Test Cricket**, **listening to music**, or **sleeping** 😴
+🎯 When I'm not coding, you'll probably find me **watching Test Cricket**, **listening to music**, or **sleeping** 😴
 
 ![Profile views](https://komarev.com/ghpvc/?username=kalyanbattula7893&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -56,10 +56,10 @@ I'm an avid software developer with a particular passion for building robust **B
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanbattula7893&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-### 📈 My LeetCode Activity Heatmap
+### 📈 My LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=Kalyannn&theme=dark" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Kalyannn?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
