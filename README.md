@@ -61,6 +61,9 @@ I'm an avid software developer with a particular passion for building robust **B
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kalyannn?ext=heatmap" alt="LeetCode Heatmap" />
 </p>
+<p align="center">
+ <img src = "https://github-readme-leetcode-card.kalyannn.com/NinePiece2?theme=tokyonight&show=graph,recent" />
+</p>
 
 ---
 
