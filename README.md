@@ -1,8 +1,9 @@
 # 👋 Hello there, I'm Kalyan Battula!
 
 👀 Welcome to my GitHub!  
-I'm an avid software developer with a particular passion for building robust **backend software**, **REST APIs**, **microservices**, and more.  
+I'm an avid software developer with a particular passion for building robust **Backend software**, **REST APIs**, **microservices**, and more.  
 🌱 Currently exploring **deep learning** — my mind feels like it’s doing mental acrobatics!  
+💪 Proficient in building **scalable applications**.  
 🎯 When I’m not coding, you’ll probably find me **watching Test Cricket**, **listening to music**, or **sleeping** 😴
 
 ![Profile views](https://komarev.com/ghpvc/?username=kalyanbattula7893&label=Profile%20views&color=0e75b6&style=flat)
@@ -24,7 +25,7 @@ I'm an avid software developer with a particular passion for building robust **b
 ### 🧰 My Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,nodejs,express,spring,aws,firebase,rabbitmq,postgresql,mongodb,mysql,graphql,git,github,linux,vscode&perline=9" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,nodejs,express,spring,aws,firebase,rabbitmq,postgresql,mongodb,mysql,graphql,git,github,linux,vscode,supabase,docker,tensorflow,algorithm&perline=9" alt="skills" />
 </p>
 
 <p align="center">
@@ -41,6 +42,9 @@ I'm an avid software developer with a particular passion for building robust **b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode"/>
 </p>
 
 ---
@@ -50,7 +54,12 @@ I'm an avid software developer with a particular passion for building robust **b
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalyanbattula7893&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanbattula7893&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://leetcard.jacoblin.cool/Kalyannn?theme=dark" alt="LeetCode Heatmap" />
+</p>
+
+### 📈 My LeetCode Activity Heatmap
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=Kalyannn&theme=dark" alt="LeetCode Heatmap" />
 </p>
 
 ---
@@ -74,4 +83,4 @@ I'm an avid software developer with a particular passion for building robust **b
 
 ---
 
-⭐ _"Code. Learn. WatchTestCricket. Repeat."_ 🚀
+⭐ _"Code. Learn. Watch Test Cricket. Repeat."_ 🚀
