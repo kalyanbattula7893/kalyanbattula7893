@@ -59,7 +59,7 @@ I'm an avid software developer with a particular passion for building robust **B
 ### 📈 My LeetCode Activity Heatmap
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kalyannn?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Kalyannn?ext=heatmap" alt="LeetCode Heatmap" />
 </p>
 
 ---
